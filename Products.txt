@@ -1,0 +1,11 @@
+TB138768 	Noel_Kalicharan_Data_Structures_In_C 
+
+TB206788	P_Mohan_Fundamentals_Of_Object_Oriented_Programming_In_Java
+
+EL4323612	SAMSUNG_34Inch_ViewFinity_S65VC_Series_Ultrawide_QHD_Curved_Monitor
+
+SP3456		Apple_iPhone_16_512_Ultramarine_UnLocked
+
+SP3566		SAMSUNG_Galaxy_A14_5G_A_Series_Cell_Phone_Unlocked_64GB_6.6_Black
+		
+END
