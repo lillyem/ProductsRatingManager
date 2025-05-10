@@ -32,10 +32,15 @@ Handle invalid inputs with descriptive error messages.
 
 # Command	Description	Parameters
 1	Insert a rating	<productCode> <name> <rating>
+
 2	Display ratings for a product	<productCode>
+
 3	Display all ratings given by a person	<name>
+
 4	Display all products with average rating ≥ value	<rating>
+
 5	Delete a specific rating	<productCode> <name>
+
 99	End of command file	(no parameters)
 
 # How to Compile and Run
